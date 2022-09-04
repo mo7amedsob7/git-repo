@@ -1,2 +1,2 @@
 # git-repo
-###My-new Project
+My-new Project
